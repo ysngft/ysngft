@@ -1,4 +1,23 @@
-### Hi there 👋
+# Profile
+***
+Data Scientist.
+Born on Oct, 2000.
+
+## Qualification
+- Applied Information Technology Engineer Examination : 応用情報技術者試験
+
+
+
+# Skills
+***
+## Languages / Frameworks
+- C/C++
+- Python
+  - Flask
+- C#
+  - Unity
+
+
 
 <!--
 **ysngft/ysngft** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
