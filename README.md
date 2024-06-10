@@ -3,33 +3,12 @@
 Data Scientist.
 Born on Oct, 2000.
 
-## Qualification
-- Applied Information Technology Engineer Examination : 応用情報技術者試験
+## Stats
+![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=ysngft&theme=gruvbox)
+![](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=ysngft&theme=gruvbox)
+![](http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=ysngft&theme=gruvbox)
+![](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=ysngft&theme=gruvbox)
+![](http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=ysngft&theme=gruvbox&utcOffset=9)
 
-
-
-# Skills
-***
-## Languages / Frameworks
-- C/C++
-- Python
-  - Flask
-- C#
-  - Unity
-
-
-
-<!--
-**ysngft/ysngft** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Trophy
+![trophy](https://github-profile-trophy.vercel.app/?username=ysngft&theme=gruvbox)
