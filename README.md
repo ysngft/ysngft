@@ -1,7 +1,12 @@
-# Profile
-***
-Data Scientist.
-Born on Oct, 2000.
+# 👋 Hi! I'm ysngft
+<p align="left">
+  <a href="https://github.com/ysngft">
+    <img height="20" src="https://komarev.com/ghpvc/?username=ysngft" />
+  </a>
+  <a href="https://github.com/ysngft">
+    <img height="20" src="https://img.shields.io/github/followers/ysngft?label=follow&logo=github&style=flat" />
+  </a>
+</p>
 
 ## Stats
 ![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=ysngft&theme=gruvbox)
